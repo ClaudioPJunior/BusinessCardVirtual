@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">CartaoVirtual</string>
+    <string name="app_name">Porta Cartão</string>
+    <string name="menu_buscar">Buscar</string>
+    <string name="menu_meuCartao">Meus Cartões</string>
+    <string name="menu_sobre">Sobre</string>
+    <string name="menu_config">Configurações</string>
 </resources>
